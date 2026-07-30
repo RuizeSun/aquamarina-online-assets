@@ -1,6 +1,6 @@
 {
 	"version": 1,
-	"text": "Online Assets for Aquamarina app. See https://www.github.com/RuizeSun/aquamarina",
+	"text": "Online assets for Aquamarina app. See https://www.github.com/RuizeSun/aquamarina",
 	"corpus": "/corpus/index.json",
 	"wordbook": "/wordbook/index.json"
 }
