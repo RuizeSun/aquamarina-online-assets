@@ -1,0 +1,11 @@
+{
+	"categlories": [
+		{
+			"title": {
+				"zh-CN": "日常对话",
+				"en-US": "Daily Conversation"
+			},
+			"index": "/corpus/dailyconversation/index.json"
+		}
+	]
+}

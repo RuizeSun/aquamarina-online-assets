@@ -1,0 +1,11 @@
+{
+	"categlories": [
+		{
+			"title": {
+				"zh-CN": "教材词汇",
+				"en-US": "Textbook Vocabulary"
+			},
+			"index": "/wordbook/textbook/index.json"
+		}
+	]
+}

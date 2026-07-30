@@ -1,0 +1,12 @@
+[
+	{
+		"title": {
+			"zh-CN": "基本问候",
+			"en-US": "Basic Greeting"
+		},
+		"author": {
+			"en-US": "Ruize Sun"
+		},
+		"file": "basic-greeting.json"
+	}
+]
